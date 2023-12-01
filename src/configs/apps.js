@@ -1,5 +1,5 @@
 import FaceTime from "../components/apps/FaceTime";
-import Terminal from "../components/apps/Terminal";
+// import Terminal from "../components/apps/Terminal";
 import Safari from "../components/apps/Safari";
 import Bear from "../components/apps/Bear";
 import VSCode from "../components/apps/VSCode";
@@ -12,7 +12,7 @@ const apps = [
     img: "img/icons/launchpad.png"
   },
   {
-    id: "akbar",
+    id: "sorcerer",
     title: "Notes",
     desktop: true,
     show: true,
@@ -50,26 +50,18 @@ const apps = [
     content: <FaceTime />
   },
   {
-    id: "terminal",
-    title: "Terminal",
-    desktop: true,
-    show: false,
-    img: "img/icons/terminal.png",
-    content: <Terminal />
-  },
-  {
     id: "email",
     title: "Mail",
     desktop: false,
     img: "img/icons/mail.png",
-    link: "mailto:umair@tesla.com.ai"
+    link: "mailto:harshs0891@gmail.com"
   },
   {
     id: "github",
     title: "Github",
     desktop: false,
     img: "img/icons/github.png",
-    link: "https://github.com/umair-akb/macos-portfolio"
+    link: "https://github.com/Harshs0891/MacBook.Dev"
   }
 ];
 

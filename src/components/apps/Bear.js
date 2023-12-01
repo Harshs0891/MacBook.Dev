@@ -5,8 +5,8 @@ import gfm from "remark-gfm";
 import { Prism as SyntaxHighlighter } from "react-syntax-highlighter";
 import { dracula, prism } from "react-syntax-highlighter/dist/esm/styles/prism";
 import bear from "../../configs/bear";
-import { IoCloudOfflineOutline } from "react-icons/io5";
-import { GiSettingsKnobs } from "react-icons/gi";
+// import { IoCloudOfflineOutline } from "react-icons/io5";
+// import { GiSettingsKnobs } from "react-icons/gi";
 import { AiOutlineLink } from "react-icons/ai";
 
 const Highlighter = (dark) => {
@@ -32,10 +32,6 @@ class Sidebar extends Component {
   render() {
     return (
       <div className="sidebar w-full h-full bg-gray-700 text-white overflow-y-scroll">
-        <div className="h-12 pr-3 flex flex-row justify-end items-center">
-          <IoCloudOfflineOutline className="mr-3" size={20} />
-          <GiSettingsKnobs size={20} />
-        </div>
         <ul>
           {bear.map((item, index) => (
             <li
