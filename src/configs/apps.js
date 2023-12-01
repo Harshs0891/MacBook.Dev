@@ -62,7 +62,15 @@ const apps = [
     desktop: false,
     img: "img/icons/github.png",
     link: "https://github.com/Harshs0891/MacBook.Dev"
+  },
+  {
+    id: "whatsApp",
+    title: "whatsApp",
+    desktop: false,
+    img: "img/icons/launchpad/whatsapp.png",
+    link: "https://web.whatsapp.com"
   }
 ];
 
 export default apps;
+// https://web.whatsapp.com/
