@@ -1,28 +1,35 @@
-# About Me
+# About Us
 
-## Biography
+# **Software Sorcerers**
 
-Hi 👋 I'm Umair. My initials are USA.
+Welcome to the world of Sorcerers, where magic meets technology in the realm of software development. Our team comprises three dedicated individuals on a mission to enchant users with a seamless and innovative online MacBook OS experience.
 
-A brief overview of what I do:
+# *Meet Our Team:*
 
-### Cloud Engineering 
-* I am a Cloud Native Infrastructure Engineer and DevOps Professional. I have a deep understanding of Infrastructure Automation, Cloud Architecture, and Public/Private Cloud Provisioning. My experience includes scaling up infrastructure to meet diverse needs while ensuring compliance with enterprise policies, automation of infrastructure operations using open source toolsets such as Ansible, Terraform, Packer and Puppet.
-* I work with Cloud and Infrastructure as Code (Iac), this includes **Amazon Web Services (AWS)**, **Google Cloud Platform (GCP)**, and **Microsoft Azure**
+1. Akhilesh Jyotishi (Full stack web developer)
+2. Harsh Kumar Singh (Data Science enthusiast)
+3. Pindiproli Sai Anurag (ML Expert)
 
-### Security Systems Engineer
-* I architect cloud-based systems that are based on these tenets: 
-   * **Resiliency** - If something "goes wrong" in the code; the program is able to self-heal or continue without affecting the entire system itself.
-   * **Highly-available** - The system is *ideally* available at all times; the system converges towards an error-free state and is therefore self stabilizing.
-   * **Redundancy** - There will always be multiple identical instances of the system and it will switch to one of the redundant instances in case of failover.
-   * **Efficiency** - The above three cost a lot to achieve; my designs are extremely efficient. If there is too much code, complexity, both, or either, I will revert the changes and re-create the system until it is. Being efficient and having all three of the above is a requirement. Until that is achieved my work is not complete.
+**1. Akhilesh the Architect** As the visionary architect of our magical creations, Akhilesh possesses a wizardry of coding languages and system architectures. With years of experience in software development, Akhilesh crafts the foundational spells that shape our online MacBook OS. His expertise in backend development ensures the stability and reliability of our digital enchantments.
+
+**2. Harsh the UX Enchanter** Harsh, our UX Enchanter, has a keen eye for design and a knack for creating user experiences that captivate and delight. His spells weave together intuitive interfaces and enchanting user journeys. Harsh's mastery of front-end development ensures that every interaction with our online MacBook OS feels enchantingly smooth and intuitive.
+
+**3. Anurag the Debugger Magician** Anurag, our Debugger Magician, possesses an innate ability to uncover and dispel even the most elusive bugs and glitches. With a passion for quality assurance and testing, Anurag ensures that our spells are cast flawlessly. His dedication to perfection ensures that our online MacBook OS operates seamlessly, delivering a magical experience to our users.
+
+**Our Mission:** At Software Sorcerers, our mission is to redefine the digital experience by bringing the elegance and functionality of MacBook OS online. We are committed to blending innovation with reliability, crafting a virtual environment that mirrors the excellence of Apple's renowned operating system.
+
+**What Sets Us Apart:**
+
+We combine our technical prowess with a touch of wizardry to create an online MacBook OS that exceeds expectations. Our dedication to quality, attention to detail, and commitment to user-centric design are the cornerstones of our magical creations.
+
+**Join Us on the Journey:** Embark on this enchanting journey with Software Sorcerers as we continue to weave spells of innovation and creativity. Together, we'll explore the uncharted territories of online operating systems, providing users with a magical experience unlike any other.
+
+Thank you for choosing Software Sorcerers – where technology meets enchantment to create the extraordinary.
+
+*Let us transform the ordinary into the extraordinary – welcome to the magic of Software Sorcerers.*
 
 ## Contact
 
-Contact me by:
+Contact us by:
 
-- Email: [umair@tesla.com.ai](mailto:umair@tesla.com.ai)
-- Github: [@umair-akb](https://github.com/umair-akb)
-- [Linkedin](https://www.linkedin.com/in/umair-akbar)
-- Blog: [hakk.gg](https://hakk.gg)
-
+- Github: harshs0891

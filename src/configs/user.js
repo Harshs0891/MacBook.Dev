@@ -1,6 +1,6 @@
 const user = {
-  name: "Umair Akbar",
-  avatar: "img/ui/avatar.jpg"
+  name: "Software Sorcerers",
+  avatar: "img/ui/avatar.png"
 };
 
 export default user;
