@@ -54,7 +54,7 @@ const apps = [
     title: "Mail",
     desktop: false,
     img: "img/icons/mail.png",
-    link: "mailto:harshs0891@gmail.com"
+    link: "mailto:akhileshjyotishi1729@gmail.com"
   },
   {
     id: "github",
