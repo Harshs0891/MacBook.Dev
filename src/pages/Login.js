@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { connect } from "react-redux";
-import { BsQuestionSquareFill } from "react-icons/bs";
+// import { BsQuestionSquareFill } from "react-icons/bs";
 import { CgSleep } from "react-icons/cg";
 import { RiShutDownLine, RiRestartLine } from "react-icons/ri";
 import wallpapers from "../configs/wallpapers";
@@ -35,7 +35,7 @@ class Login extends Component {
           </div>
 
           {/* Password Input */}
-          <div className="nightwind-prevent mx-auto grid grid-cols-5 w-44 h-8 mt-4 rounded-md bg-gray-300 blur bg-opacity-50">
+          {/* <div className="nightwind-prevent mx-auto grid grid-cols-5 w-44 h-8 mt-4 rounded-md bg-gray-300 blur bg-opacity-50">
             <input
               className="nightwind-prevent text-sm col-start-1 col-span-4 outline-none focus:outline-none bg-transparent px-2 text-white"
               type="password"
@@ -46,7 +46,7 @@ class Login extends Component {
             <div className="col-start-5 col-span-1 flex justify-center items-center">
               <BsQuestionSquareFill className="ml-1" color="white" />
             </div>
-          </div>
+          </div> */}
 
           <div className="nightwind-prevent text-sm mt-2 text-gray-200">
             Click to enter

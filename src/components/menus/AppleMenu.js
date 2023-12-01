@@ -29,7 +29,7 @@ export default function AppleMenu({
       className="fixed top-6 left-4 w-56 bg-gray-200 bg-opacity-90 blur rounded-b-lg shadow-2xl"
       ref={ref}
     >
-      <MenuItemGroup>
+      {/* <MenuItemGroup>
         <MenuItem>About This Mac</MenuItem>
       </MenuItemGroup>
       <MenuItemGroup>
@@ -41,7 +41,7 @@ export default function AppleMenu({
       </MenuItemGroup>
       <MenuItemGroup>
         <MenuItem>Force Quit</MenuItem>
-      </MenuItemGroup>
+      </MenuItemGroup> */}
       <MenuItemGroup>
         <MenuItem onClick={sleep}>Sleep</MenuItem>
         <MenuItem onClick={restart}>Restart</MenuItem>
