@@ -6,14 +6,14 @@ const websites = {
         id: "my-github",
         title: "Github",
         img: "img/sites/github.svg",
-        link: "https://github.com/umair-akb"
+        link: "https://github.com/AkhileshJyotishi/MacBook.Dev.git"
       },
-      {
-        id: "my-linkedin",
-        title: "Linkedin",
-        img: "img/sites/linkedin.svg",
-        link: "https://www.linkedin.com/in/umair-akbar"
-      },
+      // {
+      //   id: "my-linkedin",
+      //   title: "Linkedin",
+      //   img: "img/sites/linkedin.svg",
+      //   link: "https://www.linkedin.com/in/akhilesh-jyotishi-225425255/"
+      // },
       {
         id: "my-blog",
         title: "hakk.gg",
@@ -30,7 +30,7 @@ const websites = {
         id: "my-email",
         title: "Email",
         img: "img/sites/gmail.svg",
-        link: "mailto:umair@tesla.com.ai"
+        link: "mailto:akhileshjyotishi1729@gmail.com"
       }
     ]
   },
@@ -47,7 +47,7 @@ const websites = {
         id: "hakkgg",
         title: "hakk.gg",
         img: "img/sites/hakk.jpg",
-        link: "https://hakk.gg"
+        link: "https://github.com/AkhileshJyotishi/MacBook.Dev.git"
       },
       {
         id: "bilibili",
