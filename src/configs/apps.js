@@ -15,7 +15,7 @@ const apps = [
     id: "sorcerer",
     title: "Notes",
     desktop: true,
-    show: true,
+    show: false,
     width: 860,
     height: 500,
     img: "img/icons/bear.png",

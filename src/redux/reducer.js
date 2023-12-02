@@ -5,7 +5,7 @@ const initState = {
   volume: 100,
   brightness: 80,
   wifi: true,
-  bluetooth: true,
+  bluetooth: false,
   airdrop: true,
   fullscreen: false
 };

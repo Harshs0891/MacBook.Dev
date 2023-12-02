@@ -5,8 +5,6 @@ import gfm from "remark-gfm";
 import { Prism as SyntaxHighlighter } from "react-syntax-highlighter";
 import { dracula, prism } from "react-syntax-highlighter/dist/esm/styles/prism";
 import bear from "../../configs/bear";
-// import { IoCloudOfflineOutline } from "react-icons/io5";
-// import { GiSettingsKnobs } from "react-icons/gi";
 import { AiOutlineLink } from "react-icons/ai";
 
 const Highlighter = (dark) => {
