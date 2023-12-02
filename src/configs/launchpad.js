@@ -1,3 +1,5 @@
+import Todo from "./LaunchApps/ToDo";
+
 const launchpadApps = [
   {
     id: "flint",
@@ -33,7 +35,8 @@ const launchpadApps = [
     id: "what-if",
     title: "My Notebook",
     img: "img/icons/launchpad/notebook.png",
-    link: "https://onlinenotepad.org/notepad"
+    link: "https://next-todo-app-omega.vercel.app/"
+    // content: <Todo />
   },
   {
     id: "cube",

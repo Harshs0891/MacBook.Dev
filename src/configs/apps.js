@@ -3,7 +3,8 @@ import FaceTime from "../components/apps/FaceTime";
 import Safari from "../components/apps/Safari";
 import Bear from "../components/apps/Bear";
 import VSCode from "../components/apps/VSCode";
-
+import Calculator from "../components/apps/Calculator";
+import Github from "./Github";
 const apps = [
   {
     id: "launchpad",
@@ -59,16 +60,20 @@ const apps = [
   {
     id: "github",
     title: "Github",
-    desktop: false,
-    img: "img/icons/github.png",
-    link: "https://github.com/Harshs0891/MacBook.Dev"
+    desktop: true,
+    show: false,
+    img: "img/icons/game.png",
+    content: <Github />
+    // link: "https://github.com/Harshs0891/MacBook.Dev"
   },
   {
-    id: "whatsApp",
-    title: "whatsApp",
-    desktop: false,
-    img: "img/icons/launchpad/whatsapp.png",
-    link: "https://web.whatsapp.com"
+    id: "calculator",
+    title: "Instagram",
+    desktop: true,
+    img: "img/icons/launchpad/ig.png",
+    height: 530,
+    show: false,
+    content: <Calculator />
   }
 ];
 

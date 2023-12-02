@@ -3,12 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "craco --openssl-legacy-provider start",
     "build": "craco build",
-    "test": "craco test",
+    "dev": "craco --openssl-legacy-provider start",
     "eject": "react-scripts eject",
     "lint": "eslint --ext .js ./",
-    "lint-fix": "eslint --fix --ext .js ./"
+    "lint-fix": "eslint --fix --ext .js ./",
+    "test": "craco test"
   },
   "husky": {
     "hooks": {
@@ -60,6 +60,7 @@
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
+    "awesome-react-calculator": "^1.1.0",
     "date-fns": "2.21.3",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-prettier": "^3.4.0",
